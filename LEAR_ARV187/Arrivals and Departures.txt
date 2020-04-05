@@ -1,0 +1,61 @@
+ARRIVALS AND DEPARTURES FOR LEAR (MADRID/AERODROMO DE ARGAVIRTUAL)
+
+                                Arrivals
+
+Time    FN                  A/C Reg.   From                               S   M   T   W   T   F   S   
+
+00:03   Argavirtual 337     ARV-075    GCXO (Tenerife-North/Los Rodeos)   x   x   x   x   x   x   x   
+09:21    1485               A006       LEAL (Alicante)                    x   x   x   x   x   x   x   
+10:25   Argavirtual 2513    EC-AAA     LEBL (Barcelona/El Prat)           x   x   x   x   x   x   x   
+10:27   Argavirtual 2514    EC-AGE     LEPA (Palma De Mallorca)           x   x   x   x   x   x   x   
+10:36   Argavirtual 2216    EC-AGH     LEMG (Malaga)                      x   x   x   x   x   x   x   
+13:10   Argavirtual 2513    EC-AAA     LEBL (Barcelona/El Prat)           x   x   x   x   x   x   x   
+13:14   Argavirtual 2514    EC-AGE     LEPA (Palma De Mallorca)           x   x   x   x   x   x   x   
+13:32   Argavirtual 2216    EC-AGH     LEMG (Malaga)                      x   x   x   x   x   x   x   
+13:54    187                A050       LEAL (Alicante)                    x   x   x   x   x   x   x   
+14:58   Argavirtual 13021   ECAGE      LEBB (Bilbao)                      x   x   x   x   x   x   x   
+15:12   Argavirtual 1490    ARV-078    LEAM (Almeria)                     x   x   x   x   x   x   x   
+15:55   Argavirtual 2513    EC-AAA     LEBL (Barcelona/El Prat)           x   x   x   x   x   x   x   
+16:01   Argavirtual 2514    EC-AGE     LEPA (Palma De Mallorca)           x   x   x   x   x   x   x   
+16:14   Argavirtual 337     ARV-075    GCXO (Tenerife-North/Los Rodeos)   x   x   x   x   x   x   x   
+16:28   Argavirtual 2216    EC-AGH     LEMG (Malaga)                      x   x   x   x   x   x   x   
+18:40   Argavirtual 2513    EC-AAA     LEBL (Barcelona/El Prat)           x   x   x   x   x   x   x   
+18:48   Argavirtual 2514    EC-AGE     LEPA (Palma De Mallorca)           x   x   x   x   x   x   x   
+18:51    1485               A006       LEAL (Alicante)                    x   x   x   x   x   x   x   
+19:24   Argavirtual 2216    EC-AGH     LEMG (Malaga)                      x   x   x   x   x   x   x   
+19:50   Argavirtual 13021   ECAGE      LEBB (Bilbao)                      x   x   x   x   x   x   x   
+20:00   Argavirtual 1521    ARV-078    LEZL (Seville/San Pablo)           x   x   x   x   x   x   x   
+21:25   Argavirtual 2513    EC-AAA     LEBL (Barcelona/El Prat)           x   x   x   x   x   x   x   
+21:35   Argavirtual 2514    EC-AGE     LEPA (Palma De Mallorca)           x   x   x   x   x   x   x   
+22:20   Argavirtual 2216    EC-AGH     LEMG (Malaga)                      x   x   x   x   x   x   x   
+22:24    187                A050       LEAL (Alicante)                    x   x   x   x   x   x   x   
+
+                            Departures
+
+Time    FN                 A/C Reg.   To                                 S   M   T   W   T   F   S   
+
+08:00   Argavirtual 2213   EC-AGE     LEPA (Palma De Mallorca)           x   x   x   x   x   x   x   
+08:00   Argavirtual 1489   ARV-078    LEAM (Almeria)                     x   x   x   x   x   x   x   
+08:00   Argavirtual 1302   ECAGE      LEBB (Bilbao)                      x   x   x   x   x   x   x   
+08:00   Argavirtual 336    ARV-075    GCXO (Tenerife-North/Los Rodeos)   x   x   x   x   x   x   x   
+08:00   Argavirtual 2209   EC-AAA     LEBL (Barcelona/El Prat)           x   x   x   x   x   x   x   
+08:00   Argavirtual 2215   EC-AGH     LEMG (Malaga)                      x   x   x   x   x   x   x   
+08:30    1485              A050       LEAL (Alicante)                    x   x   x   x   x   x   x   
+10:45   Argavirtual 2209   EC-AAA     LEBL (Barcelona/El Prat)           x   x   x   x   x   x   x   
+10:47   Argavirtual 2213   EC-AGE     LEPA (Palma De Mallorca)           x   x   x   x   x   x   x   
+10:56   Argavirtual 2215   EC-AGH     LEMG (Malaga)                      x   x   x   x   x   x   x   
+13:00    187               A006       LEAL (Alicante)                    x   x   x   x   x   x   x   
+13:30   Argavirtual 2209   EC-AAA     LEBL (Barcelona/El Prat)           x   x   x   x   x   x   x   
+13:34   Argavirtual 2213   EC-AGE     LEPA (Palma De Mallorca)           x   x   x   x   x   x   x   
+13:52   Argavirtual 2215   EC-AGH     LEMG (Malaga)                      x   x   x   x   x   x   x   
+16:15   Argavirtual 2209   EC-AAA     LEBL (Barcelona/El Prat)           x   x   x   x   x   x   x   
+16:21   Argavirtual 2213   EC-AGE     LEPA (Palma De Mallorca)           x   x   x   x   x   x   x   
+16:48   Argavirtual 2215   EC-AGH     LEMG (Malaga)                      x   x   x   x   x   x   x   
+17:44   Argavirtual 1302   ECAGE      LEBB (Bilbao)                      x   x   x   x   x   x   x   
+17:44   Argavirtual 1488   ARV-078    LEZL (Seville/San Pablo)           x   x   x   x   x   x   x   
+18:00    1485              A050       LEAL (Alicante)                    x   x   x   x   x   x   x   
+19:00   Argavirtual 336    ARV-075    GCXO (Tenerife-North/Los Rodeos)   x   x   x   x   x   x   x   
+19:00   Argavirtual 2209   EC-AAA     LEBL (Barcelona/El Prat)           x   x   x   x   x   x   x   
+19:08   Argavirtual 2213   EC-AGE     LEPA (Palma De Mallorca)           x   x   x   x   x   x   x   
+19:44   Argavirtual 2215   EC-AGH     LEMG (Malaga)                      x   x   x   x   x   x   x   
+21:30    187               A006       LEAL (Alicante)                    x   x   x   x   x   x   x   

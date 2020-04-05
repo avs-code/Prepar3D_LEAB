@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SimBase.Document Type="AddOnXml" version="4,0" id="add-on">
+  <AddOn.Name>LEAR Argavirtual</AddOn.Name>
+  <AddOn.Description>LEAR aerodromo de Argavirtual by ARV187</AddOn.Description>
+  <AddOn.Component>
+    <Category>Scenery</Category>
+    <Path>scenery</Path>
+    <Name>LEAR scenery</Name>
+    <Layer>166</Layer>
+  </AddOn.Component>
+  <AddOn.Component>
+    <Category>Texture</Category>
+    <Path>texture</Path>
+  </AddOn.Component>
+</SimBase.Document>

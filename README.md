@@ -10,12 +10,12 @@ To update from previous version delete the next folders and files:
 Documents\Prepar3D v4 Add-ons
 |--LEAB_RFN
 |--LEAB ARV187
----|
----|Effects
----|Readme
----|scenery
----|texture
----|add-on.xml
+|---|
+|---|Effects
+|---|Readme
+|---|scenery
+|---|texture
+|---|add-on.xml
 
     After that, in your Prepar3D check if in "Add-ons" option there is "LEAB EFFECTS" activated.
 

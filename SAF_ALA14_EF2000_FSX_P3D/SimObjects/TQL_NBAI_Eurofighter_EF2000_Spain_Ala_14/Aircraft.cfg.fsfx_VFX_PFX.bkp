@@ -1,0 +1,799 @@
+//**********************************PLEASE DO NOT REMOVE********************************
+//*                                                                                    *
+//* Model Eurofighter Typhoon 2000 (c) by Nick Black & MAIW                            *
+//*                                                                                    *
+//* FSX Conversion by Henk Schuitemaker                                                *
+//*                                                                                    *
+//* Flight Model Version 2.6 by Michael MacIntyre - 3/19/2007                          *
+//*                                                                                    *
+//* Repaints by Mark (Tranquil) on the Graham King Base                                *
+//*                                                                                    *
+//*                                                                                    *
+//*                                                                                    *
+//* Requires fx_ai_fighter_contrail effect by Mike MacIntyre                           *
+//* Requires touchdown = fx_nicks_tchdwn_s effect by Nick Needham                      *
+//*                                                                                    *
+//**********************************PLEASE DO NOT REMOVE********************************
+
+
+[fltsim.0]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-31
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=long //clean,long
+texture=Ala 14_14-01
+atc_id=14-01
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-31
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.1]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-36
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=long //clean,long
+texture=Ala 14_14-03
+atc_id=14-03
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-31
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.2]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-37
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=clean //clean,long
+texture=Ala 14_14-04
+atc_id=14-04
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-37
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.3]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-38
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=clean //clean,long
+texture=Ala 14_14-05
+atc_id=14-05
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-38
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.4]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-39
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=clean //clean,long
+texture=Ala 14_14-06
+atc_id=14-06
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-39
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.5]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-41
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=long //clean,long
+texture=Ala 14_14-07
+atc_id=14-07
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-41
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.6]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-42
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=long //clean,long
+texture=Ala 14_14-08
+atc_id=14-08
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-42
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.7]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-44
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=clean //clean,long
+texture=Ala 14_14-09
+atc_id=14-09
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-44
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.8]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-45
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=clean //clean,long
+texture=Ala 14_14-10
+atc_id=14-10
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-45
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.9]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-47
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=long //clean,long
+texture=Ala 14_14-11
+atc_id=14-11
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-47
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.10]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-48
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=long //clean,long
+texture=Ala 14_14-12
+atc_id=14-12
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-48
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.11]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-49
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=clean //clean,long
+texture=Ala 14_14-13
+atc_id=14-13
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-49
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.12]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-50
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=clean //clean,long
+texture=Ala 14_14-14
+atc_id=14-14
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-50
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.13]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-55
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=long //clean,long
+texture=Ala 14_14-15
+atc_id=14-15
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-55
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.14]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-58
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=long //clean,long
+texture=Ala 14_14-17
+atc_id=14-17
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-58
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.15]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-59
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=clean //clean,long
+texture=Ala 14_14-18
+atc_id=14-18
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-59
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.16]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-60
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=clean //clean,long
+texture=Ala 14_14-19
+atc_id=14-19
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-60
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.17]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-61
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=long //clean,long
+texture=Ala 14_14-20
+atc_id=14-20
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-61
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.18]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-62
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=long //clean,long
+texture=Ala 14_14-21
+atc_id=14-21
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-62
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.19]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-64
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=clean //clean,long
+texture=Ala 14_14-22
+atc_id=14-22
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-64
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.20]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-65
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=clean //clean,long
+texture=Ala 14_14-23
+atc_id=14-23
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-65
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.21]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-66
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=long //clean,long
+texture=Ala 14_14-24
+atc_id=14-24
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-66
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.22]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-67
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=long //clean,long
+texture=Ala 14_14-25
+atc_id=14-25
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-67
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.23]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-68
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=clean //clean,long
+texture=Ala 14_14-26
+atc_id=14-26
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-68
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.24]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-70
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=clean //clean,long
+texture=Ala 14_14-28
+atc_id=14-28
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-70
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.25]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-71
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=long //clean,long
+texture=Ala 14_14-29
+atc_id=14-29
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-71
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.26]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-72
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=long //clean,long
+texture=Ala 14_14-30
+atc_id=14-30
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-72
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.27]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-73
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=clean //clean,long
+texture=Ala 14_14-31
+atc_id=14-31
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-73
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.28]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-74
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=clean //clean,long
+texture=Ala 14_14-32
+atc_id=14-32
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-74
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.29]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-75
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=clean //clean,long
+texture=Ala 14_14-33
+atc_id=14-33
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-75
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.30]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-76
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=long //clean,long
+texture=Ala 14_14-34
+atc_id=14-34
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-76
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[fltsim.31]
+title=MAIW_NBAI_F2_SAF Ala14 C.16-77
+sim=NBAI_Typhoon_F2_AI_ONLY
+model=long //clean,long
+texture=Ala 14_14-35
+atc_id=14-35
+atc_airline=AIR MIL
+atc_parking_types=MIL_COMBAT
+atc_parking_codes=141F,142F
+ui_manufacturer=Eurofighter
+ui_type=EF2000 Typhoon
+ui_variation=SAF Ala 14 - C16-77
+ui_createdby=MAIW & Nick Black
+ui_typerole=Military AI
+description=Repaint by Tranquil on the Graham King Base
+
+[General]
+atc_type=Silent
+atc_model=Typhoon
+editable=0 
+performance=FOR AI USE ONLY
+category=airplane
+
+[WEIGHT_AND_BALANCE]
+max_gross_weight = 20450.0                      // (pounds)
+empty_weight = 11700.0                          // (pounds)
+reference_datum_position =  0, 0, 0
+empty_weight_CG_position = -3.00, 0, 0        
+max_number_of_stations = 50
+//Moments of Inertia
+empty_weight_pitch_MOI   = 90000 
+empty_weight_roll_MOI    = 45000
+empty_weight_yaw_MOI     = 90000
+empty_weight_coupled_MOI = 0.0
+
+[GeneralEngineData]
+engine_type = 1                                 //0=Piston, 1=Jet, 2=None, 3=Helo-Turbine, 4=Rocket, 5=Turboprop
+Engine.0 = -8.3, -1.6, 0.8                      //(feet) longitudinal, lateral, vertical distance from reference datum
+Engine.1 = -8.3,  1.6, 0.8                      //(feet) longitudinal, lateral, vertical distance from reference datum
+fuel_flow_scalar        = 1.0                   //Scalar for fuel flow efficiency
+min_throttle_limit = -0.05                      //Minimum percent throttle.  Generally negative for turbine reverser
+max_contrail_temperature=-27                    //Temperature (deg C) below which contrails may appear
+
+[TurbineEngineData]
+fuel_flow_gain          = 0.0025                //Gain on fuel flow
+inlet_area              = 4.2895                //Square Feet, engine nacelle inlet area
+rated_N2_rpm            = 29920                 //RPM, second stage compressor rated value
+static_thrust           = 3300                  //Lbs, max rated static thrust at Sea Level
+afterburner_available   = 1                     //Afterburner available?
+reverser_available      = 0                     //Thrust reverser available?
+
+[jet_engine]
+thrust_scalar = 1.0
+
+[Reference Speeds]
+flaps_up_stall_speed=130               //KTAS 
+full_flaps_stall_speed=110             //KTAS 
+cruise_speed=550                       //KTAS
+max_indicated_speed=400                //KIAS
+max_mach=2.0
+
+[contact_points]
+        //0  Class
+        //1  Longitudinal Position        (feet)
+        //2  Lateral Position             (feet)
+        //3  Vertical Position            (feet)
+        //4  Impact Damage Threshold      (Feet Per Minute)
+        //5  Brake Map                    (0=None, 1=Left, 2=Right)
+        //6  Wheel Radius                 (feet)
+        //7  Steer Angle                  (degrees)
+        //8  Static Compression           (feet)  (0 if rigid)
+        //9  Max/Static Compression Ratio
+        //10 Damping Ratio                (0=Undamped, 1=Critically Damped)
+        //11 Extension Time               (seconds)
+        //12 Retraction Time              (seconds)
+        //13 Sound Type
+static_pitch = -0.8
+static_cg_height = 6.2
+tailwheel_lock = 0
+gear_system_type = 1
+max_number_of_points = 3
+point.0 = 1,  7.0,  0.0, -6.200, 1181.1, 0, 0.6349, 46.8, 0.3000, 2.500, 0.9100, 10.000, 10.000, 0.000, 260.000, 260.000
+point.1 = 1, -6.8, -7.2, -6.400, 1574.8, 1, 1.3000,  0.0, 0.4798, 2.500, 0.5456,  9.000,  9.000, 2.000, 260.000, 260.000
+point.2 = 1, -6.8,  7.2, -6.400, 1574.8, 2, 1.3000,  0.0, 0.4798, 2.500, 0.5456,  9.000,  9.000, 3.000, 260.000, 260.000
+
+[Lights]
+//Types: 1=beacon, 2=strobe, 3=navigation, 4=cockpit, 5=landing, 6=taxi
+light.0= 7,   -5.65,   0.00,  5.10, fx_beacon
+light.1= 7,    7.70,   2.50, -0.60, fx_beacon		//SINGLE
+
+[EFFECTS]
+wake=fx_wake
+water=fx_spray
+dirt=fx_tchdrt
+concrete=fx_sparks
+touchdown=fx_nicks_tchdwn_s, 1
+contrail=fx_ai_fighter_contrail
+
+[flaps.0]
+type             = 1                                    // 1 - tail, 2 - lead
+span-outboard    = 0.8                                  // 0.0 .. 1.0
+extending-time   = 5                                    // seconds
+flaps-position.0 = 0                                    // degrees
+flaps-position.1 = 20                                   // degrees
+flaps-position.2 = 40                                   // degrees
+damaging-speed   = 250                                  // KIAS
+blowout-speed    = 300                                  // KIAS
+
+[brakes]
+parking_brake = 1          //Parking brake available
+toe_brakes_scale = 1.0    //Brake scalar
+auto_brakes=4
+
+[fuel]
+Center1   =  -6.9,   0.0, -1.5, 359.0, 0.0     //Longitudinal (feet), Lateral (feet), Vertical (feet), Usable(gallons), Unusable (gallons)
+LeftMain  =  -1.8, -10.0, -1.5, 268.5, 0.0     //Longitudinal (feet), Lateral (feet), Vertical (feet), Usable(gallons), Unusable (gallons)
+RightMain =  -1.8,  10.0, -1.5, 268.5, 0.0     //Longitudinal (feet), Lateral (feet), Vertical (feet), Usable(gallons), Unusable (gallons)
+fuel_type = 2                                  //Fuel type: 1 = Avgas, 2 = JetA
+number_of_tank_selectors = 1
+electric_pump=1
+
+[airplane_geometry]
+wing_area               = 312.0                 //Square feet
+wing_span               = 45.8                  //Feet
+wing_root_chord         = 9.9                   //Feet
+wing_dihedral           = 2.5                   //Degrees
+wing_incidence          = 0.5                   //Degrees
+wing_twist              = -1.5                  //Degrees
+oswald_efficiency_factor= 0.8                   //Measure of lift effeciency of wing
+wing_winglets_flag      = 1                     //Are winglets available?
+wing_sweep              = 13.4                  //Degrees, wing leading edge
+wing_pos_apex_lon       = -31.5                 //Feet, longitudinal distance from reference point, negative going aft
+wing_pos_apex_vert      = 0.0                   //Feet, vertical distance from reference point, positive going up
+htail_area              = 67.0                  //Square feet
+htail_span              = 17.2                  //Feet
+htail_pos_lon           = -59.1                 //Feet, longitudinal distance from reference point, negative going aft
+htail_pos_vert          = 0.0                   //Feet, vertical distance from reference point, positive going up
+htail_incidence         = 2.0                   //Degrees
+htail_sweep             = 25.0                  //Degrees, horizontal tail leading edge
+vtail_area              = 42.0                  //Square feet
+vtail_span              = 7.4                   //Feet, tip to body
+vtail_sweep             = 30.0                  //Degrees, vertical tail leading edge
+vtail_pos_lon           = -55.0                 //Feet, longitudinal distance from reference point, negative going aft
+vtail_pos_vert          = 4.1                   //Feet, vertical distance from reference point, positive going up
+elevator_area           = 17.0                  //Square feet
+aileron_area            = 13.5                  //Square feet
+rudder_area             = 7.3                   //Square feet
+elevator_up_limit       = 17.0                  //Degrees
+elevator_down_limit     = 15.5                  //Degrees
+aileron_up_limit        = 18.0                  //Degrees
+aileron_down_limit      = 18.0                  //Degrees
+rudder_limit            = 30.0                  //Degrees
+elevator_trim_limit     = 15.0                  //Degrees
+spoiler_limit           = 60.0                  //Degrees
+spoilerons_available    = 0                     //Spoilerons Available?
+aileron_to_spoileron_gain = 4.6                 //Aileron to spoileron gain
+min_ailerons_for_spoilerons = 5                 //Degrees
+min_flaps_for_spoilerons= 0.0
+auto_spoiler_available=0
+spoiler_extension_time=2.000000
+positive_g_limit_flaps_up=3.000000
+positive_g_limit_flaps_down=2.000000
+negative_g_limit_flaps_up=-2.000000
+negative_g_limit_flaps_down=-2.000000
+
+[flight_tuning]
+cruise_lift_scalar     = 1.0
+parasite_drag_scalar   = 1.0
+induced_drag_scalar    = 1.0
+elevator_effectiveness = 3.0
+aileron_effectiveness  = 1.0
+rudder_effectiveness   = 1.0
+pitch_stability        = 6.0
+roll_stability         = 1.0
+yaw_stability          = 1.0
+elevator_trim_effectiveness = 1.0
+aileron_trim_effectiveness  = 1.0
+rudder_trim_effectiveness   = 1.0
+                   
+[autopilot]
+autopilot_available= 1
+flight_director_available= 1
+default_vertical_speed= 1800.0
+autothrottle_available= 1
+autothrottle_arming_required= 0
+autothrottle_max_rpm = 90
+autothrottle_takeoff_ga= 0
+pitch_takeoff_ga = 8//
+max_pitch=10.0
+max_pitch_acceleration=1.0
+max_pitch_velocity_lo_alt=2.0
+max_pitch_velocity_hi_alt=1.5
+max_pitch_velocity_lo_alt_breakpoint=20000.0
+max_pitch_velocity_hi_alt_breakpoint=28000.0
+max_bank=25.0
+max_bank_acceleration=1.8
+max_bank_velocity=3.00
+max_throttle_rate=0.10
+nav_proportional_control=11.00
+nav_integrator_control=0.20
+nav_derivative_control=0.00
+nav_integrator_boundary=2.50
+nav_derivative_boundary=0.00
+gs_proportional_control=9.52
+gs_integrator_control=0.26
+gs_derivative_control=0.00
+gs_integrator_boundary=0.70
+gs_derivative_boundary=0.00
+yaw_damper_gain = 1.0
+
+[stall_warning]
+type=2
+stick_shaker=1
+
+[electrical]
+max_battery_voltage = 12.0
+generator_alternator_voltage = 13.8
+max_generator_alternator_amps = 40.0
+//BusType, MaxAmpLoad, MinVoltage       BusTypes:0=MainBus,1=AvionicsBus,2=BatteryBus,3=HotBatteryBus,4-7=Generator/AlternatorBus(1-4)
+avionics_bus       = 0, 5 , 9.5
+avionics           = 1, 5 , 9.5
+additional_system  = 0, 2 , 9.5
+marker_beacon      = 1, 2 , 9.0
+fuel_pump          = 0, 5 , 9.0
+
+[gear_warning_system]
+gear_warning_available = 1    //Normal
+pct_throttle_limit =  0.1     //Percent throttle that activates warning
+flap_limit_idle    = 15.0     //Flap angle that activates warning at idle
+flap_limit_power   = 30.0     //Flap angle that activates warning at above idle
+
+[hydraulic_system]
+normal_pressure = 3000.0    //PSI
+electric_pumps  = 0         //no electric pumps
+engine_map      = 1,1,0,0   //pumps on Eng1,2
+
+[Views]
+eyepoint = -16.385, -1.435, 3.012
+
+[Radios]
+// Radio Type = availiable, standby frequency, has glide slope
+Audio.1       = 1
+Com.1         = 1, 0
+Com.2         = 1, 0
+Nav.1         = 1, 0, 1
+Nav.2         = 1, 0, 0
+Adf.1         = 1
+Transponder.1 = 1
+Marker.1      = 1
+
+[keyboard_response]
+//Breakpoint speeds (knots) on the keyboard increments of control surfaces.
+//Speed at which the incremenet is reduced to  1/2 and 1/8 respectively.
+elevator = 150, 250
+aileron  = 150, 250
+rudder   = 150, 250
+
+[direction_indicators]
+//1 Type: 0=None, 1=Vacuum Gyro, 2=Electric Gyro, 3=Electro-Mag Slaved Compass, 4=Slaved to another
+//2 Indicator number of slaving indicator if Type = 4
+direction_indicator.0=3,0
+
+[attitude_indicators]
+//Type: 0=None, 1=Vacuum Gyro, 2=Electric Gyro
+attitude_indicator.0 = 2
+attitude_indicator.1 = 1 
+
+[turn_indicators]
+//Type: 0=None, 1=Electric Gyro, 2= Vacuum Gyro
+turn_indicator.0=0,0
+
+
+
+[pitot_static]
+pitot_heat=1.000000
+[vacuum_system]
+max_pressure=5.150000
+vacuum_type=2
+electric_backup_pressure=0.000000
+engine_map=0,0,0,0
+[pneumatic_system]
+max_pressure=18.000000
+bleed_air_scalar=1.000000
+[deice_system]
+structural_deice_type=0

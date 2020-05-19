@@ -4,9 +4,15 @@
   <AddOn.Description>LEAB Scenery home of 14sq. by ARV187</AddOn.Description>
   <AddOn.Component>
     <Category>Scenery</Category>
+    <Path>world</Path>
+    <Name>LEAB_elevation</Name>
+    <Layer>161</Layer>
+  </AddOn.Component>
+  <AddOn.Component>
+    <Category>Scenery</Category>
     <Path>scenery</Path>
     <Name>LEAB Scenery</Name>
-    <Layer>160</Layer>
+    <Layer>162</Layer>
   </AddOn.Component>
   <AddOn.Component>
     <Category>Texture</Category>

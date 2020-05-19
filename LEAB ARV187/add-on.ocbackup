@@ -5,16 +5,15 @@
   <AddOn.Component>
     <Category>Scenery</Category>
     <Path>scenery</Path>
-	<Name>LEAB Scenery</Name>
+    <Name>LEAB Scenery</Name>
+    <Layer>160</Layer>
   </AddOn.Component>
   <AddOn.Component>
     <Category>Texture</Category>
     <Path>texture</Path>
-	<Name>LEAB texture</Name>
   </AddOn.Component>
   <AddOn.Component>
     <Category>Effects</Category>
     <Path>Effects</Path>
-	<Name>LEAB Effects</Name>
   </AddOn.Component>
 </SimBase.Document>

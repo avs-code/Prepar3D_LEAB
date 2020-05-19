@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SimBase.Document Type="AddOnXml" version="4,0" id="AddOnXml">
+  <AddOn.Name>ALA14_EF2000_LEAB_IA</AddOn.Name>
+  <AddOn.Description>
+Credits:
+Model Eurofighter Typhoon 2000 (c) by Nick Black y MAIW
+Flight Model Version 2.6 by Michael MacIntyre - 3/19/2007
+Repaint Art by: Mark (Tranquil) Beale
+Flight Plans by: Jim Rodger
+Research and Texture conversion: Toni Vicente
+  </AddOn.Description>
+  <AddOn.Component>
+    <Category>Effects</Category>
+    <Path>Effects</Path>
+  </AddOn.Component>
+  <AddOn.Component>
+    <Category>Fonts</Category>
+    <Path>Fonts</Path>
+  </AddOn.Component>
+  <AddOn.Component>
+    <Category>Gauges</Category>
+    <Path>Gauges</Path>
+  </AddOn.Component>
+  <AddOn.Component>
+    <Category>Scripts</Category>
+    <Path>Scripts</Path>
+  </AddOn.Component>
+  <AddOn.Component>
+    <Category>SimObjects</Category>
+    <Path>SimObjects</Path>
+  </AddOn.Component>
+  <AddOn.Component>
+    <Category>Scenery</Category>
+    <Path>scenery\World\Scenery</Path>
+    <Name>EF2000 ALA 14 AI Traffic Files</Name>
+    <Layer>147</Layer>
+  </AddOn.Component>
+</SimBase.Document>

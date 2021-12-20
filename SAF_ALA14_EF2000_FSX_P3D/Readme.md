@@ -1,4 +1,4 @@
-Mark "Tranquil" Beale (Package Eurofighter EF2000 Typhoon - Spanish Ala 14 141-142 Squadrons NBAI)
+Copyright 2019 Mark "Tranquil" Beale (Package Eurofighter EF2000 Typhoon - Spanish Ala 14 141-142 Squadrons NBAI)
 
 https://militaryaiworks.com/download-hangar/file-library/download/12-complete-ai-packages/1679-package-eurofighter-ef2000-typhoon-spanish-ala-14-141-142-squadrons-nbai
 

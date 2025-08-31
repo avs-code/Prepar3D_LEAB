@@ -1,4 +1,4 @@
-This is very old project (circa 2012), I used SDK tools, Airport Design Editor (ADE), SketchUp 3D, Instituto Geográfico Nacional with geolocated images *.tiff, Gimp, Aena Navigation Charts and photographs for reference.
+I used SDK tools, Airport Design Editor (ADE), SketchUp 3D, Instituto Geográfico Nacional with geolocated images *.tiff, Gimp, Aena Navigation Charts and photographs for reference.
 
 More info in https://spark-23.itch.io/leab-scenery-add-on-for-prepar-3d-and-microsoft-flight-simulator-x
 
